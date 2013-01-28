@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rake', '~>10.0.3'
-gem 'rails', '~>3.0.7'
+gem 'rails', '~>3.2.11'
 
 group :development, :test do
   gem 'jeweler', '1.6.2'
